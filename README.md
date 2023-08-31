@@ -1,0 +1,1 @@
+This repo is only for my student. I will tech them about web development. It is helpful for them bz they can improved their knowladge, they can improved their speed and get lot of things like they know how to build a complex design . thats why I say do clone some famous website using html and css.
